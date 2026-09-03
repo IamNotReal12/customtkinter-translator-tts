@@ -29,4 +29,4 @@
    ```bash
    git clone [https://github.com/IamNotReal12/customtkinter-translator-tts.git](https://github.com/IamNotReal12/customtkinter-translator-tts.git)
 2.pip install customtkinter deep-translator pygame gTTS pillow
-3.python traductor_audio.py
+3.python main.py
